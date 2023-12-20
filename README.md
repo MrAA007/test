@@ -3,7 +3,9 @@ Official C++ implementation of the Olympus protocol.
 
 To understand the consensus algorithm in Olympus, refer to the mcp [yellow paper](https://resources.computecoin.com/docs/computecoin-consensus-and-security.pdf).
 
-[API Reference](https://docs.oortech.com/oort/community/developers/blockchain-developers)
+[![API Reference](
+https://img.shields.io/badge/c++-refrence%20chat-blue.svg
+)](https://docs.oortech.com/oort/community/developers/blockchain-developers/)
 [![Discord](https://img.shields.io/badge/discord-join%20chat-blue.svg)](https://discord.gg/f4Z2jJjtNp)
 
 ## Building the source
